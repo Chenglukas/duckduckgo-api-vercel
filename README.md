@@ -2,8 +2,8 @@
 
 ## Use vercel
 
-原项目由于flask使用了async导致报错，vercel配置文件也出现错误，已经更正并删除docker配置
-只使用vercel部署的本项目
+原项目由于flask使用了async导致报错，vercel配置文件也出现错误，已经更正所有错误
+并删除了docker配置，只使用vercel部署的本项目
 
 可点下方按钮部署到自己的Vercel
 
