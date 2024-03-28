@@ -8,6 +8,7 @@
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Chenglukas/duckduckgo-api-vercel)
 
+注意：VERCEL在最近的更新中把默认NODE版本更新到了20.x，但是该版本还没有支持python；已部署的项目需要手动到项目设置中更改默认NODE到18.x，未部署的可以直接部署，已经在配置文件中指定NODE版本为18.x
 
 ## 自部署
 
